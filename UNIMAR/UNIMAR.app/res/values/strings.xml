@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UNIMAR</string>
+    <string name="title_activity_splash_screen">UNIMAR</string>
+    <string name="dummy_content">UNIMAR</string>
+    <string name="empty"></string>
+    <string name="title_activity_main">Inicio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+
+</resources>
